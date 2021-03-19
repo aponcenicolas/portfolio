@@ -9,7 +9,7 @@ const ContactPage = () => {
   return (
     <div>
       <div className="title">
-        <Title title={"About Me"} span={"About Me"} />
+        <Title title={"About Me"} span={"Sobre mi"} />
       </div>
       <div className="ContactPage">
         <div className="map-sect">
